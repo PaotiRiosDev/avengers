@@ -20,3 +20,4 @@
 * El Santo
 * Blue Demon
 * Chabelo
+* Mafalda
