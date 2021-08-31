@@ -17,3 +17,5 @@
 * Vision
 * Wasp
 * Antman
+* El Santo
+* Blue Demon
